@@ -1,0 +1,8 @@
+ <Route path="/about">business <News  mode={this.state.mode} category="general" />  </Route>
+ <Route path="/about">entertainment <News  mode={this.state.mode} category="general" />  </Route>
+ <Route path="/about">general <News  mode={this.state.mode} category="general" />  </Route>
+ <Route path="/about">health <News  mode={this.state.mode} category="general" />  </Route>
+ <Route path="/about">science <News  mode={this.state.mode} category="general" />  </Route>
+ <Route path="/about">sports <News  mode={this.state.mode} category="general" />  </Route>
+ <Route path="/about">technology <News  mode={this.state.mode} category="general" />  </Route>
+  <Route path="/about"> <News  mode={this.state.mode} category="general" />  </Route>
