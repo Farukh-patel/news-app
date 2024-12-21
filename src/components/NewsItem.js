@@ -21,8 +21,7 @@ const NewsItem = (props) => {
           alt=" "
         />
         <span class="badge text-bg-info">{source}</span>
-        <div
-          className="card-body"
+        <div className="card-body"
           style={{
             backgroundColor: mode === "dark" ? "#2b2929" : "white",
             color: mode === "dark" ? "white" : "black",
